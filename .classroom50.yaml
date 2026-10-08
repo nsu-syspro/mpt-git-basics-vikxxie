@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "mpt"
+assignment: "git-basics"
+owner:
+  username: "vikxxie"
+  id: 263387711
+  accepted_at: "2026-10-08T14:15:40Z"
+source:
+  owner: "nsu-syspro"
+  owner_id: 115493553
+  repo: "mpt-git-basics"
+  branch: "main"
